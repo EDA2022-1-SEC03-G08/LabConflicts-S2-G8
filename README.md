@@ -7,6 +7,7 @@ Esta organización es una sugerencia que puede ser adaptada a  las necesidades y
 Integrantes y división de roles:
 
 Est-1: Juan David Salguero - 201923136
+
 Est-2: David Molina - 202125176 
 
 La estructura tiene los siguiente directorios y archivos:
