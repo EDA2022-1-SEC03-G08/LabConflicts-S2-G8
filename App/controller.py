@@ -51,7 +51,6 @@ def loadTags(filename):
         model.addTag(tags, tag)
     return tags
 
-
 def loadBooksTags(filename):
     # TODO: Modificación de Est-1 (Hecho) y Est-2 en el Lab 2 
     booktagsfile = cf.data_dir + filename
